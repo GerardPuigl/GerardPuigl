@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Gerard Puig
+### Hi, I’m Gerard Puig
 - 👀 I’m interested in backend Web Development.
 - 🌱 I’m currently learning Java & Spring with Mysql & Mongodb.
 - 💞️ I’m looking to collaborate on interesting projects where I can contribute and improve my skills.
