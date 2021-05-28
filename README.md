@@ -5,6 +5,13 @@
 - 📫 How to reach me via email at puiglatorre@gmail.com.
 
 
+### Some Stadistics:
+
+<p align="center" >
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=gerardpuigl&show_icons=true&locale=en&layout=compact" alt="gerardpuigl" />
+  <img  src="https://github-readme-stats.vercel.app/api?username=gerardpuigl&show_icons=true&locale=en" alt="gerardpuigl" />
+</p>
+
 ### Technology Stack:
 <p align="center">
   <img src="https://github.com/GerardPuigl/TechnologyStackIcons/blob/main/Logos/java.svg" alt="java" title="java" height="33px"/>
@@ -23,4 +30,3 @@
   <img src="https://github.com/GerardPuigl/TechnologyStackIcons/blob/main/Logos/visual-studio-code.svg" alt="visual-studio-code" title="visual-studio-code" height="33px"/>
 
  
-</p>
