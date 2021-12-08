@@ -16,6 +16,7 @@
 <p align="center">
   <img src="https://github.com/GerardPuigl/TechnologyStackIcons/blob/main/Logos/java.svg" alt="java" title="java" height="33px"/>
   <img src="https://github.com/GerardPuigl/TechnologyStackIcons/blob/main/Logos/spring-long.svg" alt="spring" title="spring" height="33px"/>
+  <img src="https://github.com/GerardPuigl/TechnologyStackIcons/blob/main/Logos/intellij-idea.svg" alt="intellij-idea" title="eclipse" height="33px"/> 
   <img src="https://github.com/GerardPuigl/TechnologyStackIcons/blob/main/Logos/eclipse.svg" alt="eclipse" title="eclipse" height="33px"/> 
   <img src="https://github.com/GerardPuigl/TechnologyStackIcons/blob/main/Logos/postman.svg" alt="postman" title="postman" height="33px"/>
   <img src="https://github.com/GerardPuigl/TechnologyStackIcons/blob/main/Logos/mysql.svg" alt="mysql" title="mysql" height="33px"/>
