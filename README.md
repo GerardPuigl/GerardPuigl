@@ -1,6 +1,6 @@
 ### Hi, I’m Gerard Puig
 - 👀 I’m interested in backend Web Development.
-- 🌱 I’m currently learning Hexagonal Architecture & Microservices with Java
+- 🌱 I’m currently learning Event-Driven Architecture with Kafka & Elastic.
 - 💞️ I’m looking to collaborate on interesting projects where I can contribute with my skills and knowledge.
 - 📫 How to reach me via email at puiglatorre@gmail.com.
 
