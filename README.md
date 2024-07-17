@@ -1,8 +1,7 @@
 ### Hi, I’m Gerard Puig
 - 👀 I’m interested in backend Web Development.
-- 🌱 I’m currently learning Event-Driven Architecture with Kafka & Elastic.
+- 🌱 I’m currently learning Kotlin.
 - 💞️ I’m looking to collaborate on interesting projects where I can contribute with my skills and knowledge.
-- 📫 How to reach me via email at puiglatorre@gmail.com.
 
 
 ### Some Stadistics:
@@ -21,6 +20,9 @@
   <img src="https://github.com/GerardPuigl/TechnologyStackIcons/blob/main/Logos/postman.svg" alt="postman" title="postman" height="33px"/>
   <img src="https://github.com/GerardPuigl/TechnologyStackIcons/blob/main/Logos/mysql.svg" alt="mysql" title="mysql" height="33px"/>
   <img src="https://github.com/GerardPuigl/TechnologyStackIcons/blob/main/Logos/mongodb.svg" alt="mongodb" title="mongodb" height="33px"/>
+  <img src="https://github.com/GerardPuigl/TechnologyStackIcons/blob/main/Logos/Apache_kafka.svg" alt="apache_kafka" title="apache_kafka" height="33px"/>
+  <img src="https://github.com/GerardPuigl/TechnologyStackIcons/blob/main/Logos/grafana.svg" alt="grafana" title="grafana" height="33px"/>
+  <img src="https://github.com/GerardPuigl/TechnologyStackIcons/blob/main/Logos/keycloak.svg" alt="keycloak" title="keycloak" height="33px"/>
   <img src="https://github.com/GerardPuigl/TechnologyStackIcons/blob/main/Logos/auth0.svg" alt="auth0" title="auth0" height="33px"/>
   <img src="https://github.com/GerardPuigl/TechnologyStackIcons/blob/main/Logos/thymeleaf.png" alt="thymeleaf" title="thymeleaf" height="33px"/>
   <img src="https://github.com/GerardPuigl/TechnologyStackIcons/blob/main/Logos/datatables.png" alt="datatables" title="datatables" height="33px"/>
