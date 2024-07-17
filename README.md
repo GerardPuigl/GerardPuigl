@@ -16,7 +16,8 @@
   <img src="https://github.com/GerardPuigl/TechnologyStackIcons/blob/main/Logos/java.svg" alt="java" title="java" height="33px"/>
   <img src="https://github.com/GerardPuigl/TechnologyStackIcons/blob/main/Logos/spring-long.svg" alt="spring" title="spring" height="33px"/>
   <img src="https://github.com/GerardPuigl/TechnologyStackIcons/blob/main/Logos/intellij-idea.svg" alt="intellij-idea" title="eclipse" height="33px"/> 
-  <img src="https://github.com/GerardPuigl/TechnologyStackIcons/blob/main/Logos/eclipse.svg" alt="eclipse" title="eclipse" height="33px"/> 
+  <img src="https://github.com/GerardPuigl/TechnologyStackIcons/blob/main/Logos/eclipse.svg" alt="eclipse" title="eclipse" height="33px"/>
+  <img src="https://github.com/GerardPuigl/TechnologyStackIcons/blob/main/Logos/visual-studio-code.svg" alt="visual-studio-code" title="visual-studio-code" height="33px"/>
   <img src="https://github.com/GerardPuigl/TechnologyStackIcons/blob/main/Logos/postman.svg" alt="postman" title="postman" height="33px"/>
   <img src="https://github.com/GerardPuigl/TechnologyStackIcons/blob/main/Logos/mysql.svg" alt="mysql" title="mysql" height="33px"/>
   <img src="https://github.com/GerardPuigl/TechnologyStackIcons/blob/main/Logos/mongodb.svg" alt="mongodb" title="mongodb" height="33px"/>
@@ -24,12 +25,14 @@
   <img src="https://github.com/GerardPuigl/TechnologyStackIcons/blob/main/Logos/grafana.svg" alt="grafana" title="grafana" height="33px"/>
   <img src="https://github.com/GerardPuigl/TechnologyStackIcons/blob/main/Logos/keycloak.svg" alt="keycloak" title="keycloak" height="33px"/>
   <img src="https://github.com/GerardPuigl/TechnologyStackIcons/blob/main/Logos/auth0.svg" alt="auth0" title="auth0" height="33px"/>
+</p>
+<p align="center">
   <img src="https://github.com/GerardPuigl/TechnologyStackIcons/blob/main/Logos/thymeleaf.png" alt="thymeleaf" title="thymeleaf" height="33px"/>
+  <img src="https://github.com/GerardPuigl/TechnologyStackIcons/blob/main/Logos/javascript.svg" alt="javascript" title="javascript" height="33px"/>
   <img src="https://github.com/GerardPuigl/TechnologyStackIcons/blob/main/Logos/datatables.png" alt="datatables" title="datatables" height="33px"/>
   <img src="https://github.com/GerardPuigl/TechnologyStackIcons/blob/main/Logos/html-5.svg" alt="html-5" title="html-5" height="33px"/>
   <img src="https://github.com/GerardPuigl/TechnologyStackIcons/blob/main/Logos/css-3.svg" alt="css-3" title="css-3" height="33px"/>
   <img src="https://github.com/GerardPuigl/TechnologyStackIcons/blob/main/Logos/bootstrap.svg" alt="bootstrap" title="bootstrap" height="33px"/>
-  <img src="https://github.com/GerardPuigl/TechnologyStackIcons/blob/main/Logos/javascript.svg" alt="javascript" title="javascript" height="33px"/>
-  <img src="https://github.com/GerardPuigl/TechnologyStackIcons/blob/main/Logos/visual-studio-code.svg" alt="visual-studio-code" title="visual-studio-code" height="33px"/>
+</p>
 
  
